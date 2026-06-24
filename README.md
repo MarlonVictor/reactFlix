@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/netlify/4633120d-7a26-4054-a615-03752b4b376c?color=%23555&logo=Netlify&style=flat-square">
     <img src="https://img.shields.io/github/repo-size/MarlonVictor/reactFlix?color=%23555&logo=GitHub&style=flat-square">
     <img src="https://img.shields.io/github/stars/MarlonVictor/reactFlix?color=%23555&logo=github&style=flat-square">
 </p>
