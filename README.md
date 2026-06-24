@@ -31,10 +31,6 @@ A aplicação reúne um compilado de vídeos do YouTube separadas por categorias
   <img src="https://user-images.githubusercontent.com/62356988/90161801-0d70f580-dd6a-11ea-9f02-1f7d61dbdb99.png">
 </p>
 
-## Acesse
-* Link do projeto: [Reactflix](https://reactflix.netlify.app)  
-* Link da API: [/categorias](https://reactflix-api.herokuapp.com/videos) e [/videos](https://reactflix-api.herokuapp.com/videos)
-
 ## Como Rodar
 ### Clone o repositório
 ```bash
